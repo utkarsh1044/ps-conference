@@ -1,0 +1,9 @@
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/ConferenceDemoApplication.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/models/Speaker.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/controllers/HomeController.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/models/Session.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/config/PersistenceConfiguration.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/repositories/SpeakerRepository.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/controllers/SpeakersController.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/controllers/SessionsController.java
+/home/utkarshgupta/Downloads/conference-demo/src/main/java/com/example/conferencedemo/repositories/SessionRepository.java
